@@ -1,0 +1,12 @@
+HI {FNAME}, {LNAME}
+<br/>
+Welcome To ASHOKIT ,Your registration is almost complete,please use below details to unlock account<br/>
+Temporary Password:{TEMP-PWD}<br/>
+
+<br/>
+
+<a href="http:localhost:8080/unlockAcc?email={EMAIL}">
+click here to unlock your account</a><br/>
+<br/>
+Thanks and Regards<br/>
+AshokIt<br/>
